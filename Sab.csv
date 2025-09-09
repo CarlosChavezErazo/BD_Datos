@@ -1,4 +1,4 @@
-﻿N,Año,Nombre_Mes,Mes,Dia,Mes-Dia,Fecha 2,Fecha,sáb
+﻿N,Año,Nombre_Mes,Mes,Dia,Mes-Dia,Fecha 2,Fecha,Jackpots
 1,2025,Set,9,6,Set-6,2025-Set-6,6/09/2025,84
 2,2025,Ago,8,30,Ago-30,2025-Ago-30,30/08/2025,61
 3,2025,Ago,8,23,Ago-23,2025-Ago-23,23/08/2025,113
@@ -236,3 +236,4 @@
 235,2021,Ene,1,16,Ene-16,2021-Ene-16,16/01/2021,33
 236,2021,Ene,1,9,Ene-9,2021-Ene-9,9/01/2021,44
 237,2021,Ene,1,2,Ene-2,2021-Ene-2,2/01/2021,67
+
